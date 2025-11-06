@@ -12,11 +12,9 @@ by Peter Kahl, 2025-11-07
 
 ## Abstract
 
-This paper reframes the debate on artificial intelligence and democracy by shifting attention from the effects of disinformation and algorithmic bias to the deeper fiduciary failures in the governance of knowledge. Drawing on Kahl’s Third Enclosure Movement (2025) and Directors’ Epistemic Duties and Fiduciary Openness (2025), it argues that AI does not merely undermine democratic processes through misinformation; it re-encloses epistemic agency itself.
+This paper reconceptualises the relationship between artificial intelligence and democracy through the lens of fiduciary-epistemic ethics. It argues that AI does not merely threaten democracy through misinformation or automation but through epistemic capture—the reconfiguration of public trust into clientelist dependence mediated by opaque, algorithmic infrastructures. Drawing upon fiduciary theory (Frankel 1983; Gold & Miller 2016; Kahl 2025i), epistemic justice (Fricker 2007; Medina 2013), and recent corporate-law scholarship on hybrid governance (Ofir & Levine-Schnur 2025), the paper situates large AI firms as fiduciaries of knowledge, entrusted with public epistemic goods yet structured to breach those duties through opacity and self-referential accountability.
 
-The study introduces the concept of algorithmic clientelism—the substitution of epistemic trust with performative engagement—and situates it within a broader fiduciary-epistemic constitutionalism. By mapping how platform architectures act as fiduciaries of public reason but breach their epistemic duties through opacity, amplification asymmetries, and performative truth metrics, the paper outlines a governance model grounded in fiduciary openness, algorithmic candour, and epistemic justice.
-
-Building on the Taxonomy of Restricted Knowledge, it proposes a four-tier reform strategy—legal, technical, epistemic, and civic—to reconstitute democratic legitimacy in the age of AI. The paper concludes that democracy’s survival depends less on regulating speech than on restoring fiduciary integrity to the infrastructures of knowing.
+Synthesising Kahl’s _Epistemic Clientelism Theory_ with Coeckelbergh’s (2025) insights on epistemic agency, the paper introduces a new framework—**Fiduciary Epistemic Governance** (FEG)—that grounds algorithmic accountability in duties of candour, care, and openness. It concludes by proposing institutional reforms, including algorithmic fiduciary duties, epistemic audits, and the establishment of _Public Epistemic Trusts_ as civic counterweights to corporate knowledge enclosures.
 
 ## Keywords
 
