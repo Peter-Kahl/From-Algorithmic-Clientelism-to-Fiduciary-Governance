@@ -1,6 +1,6 @@
-# From Algorithmic Clientelism to Fiduciary Governance
+# Redefining Democracy for the Age of AI
 
-### Rethinking AI and Democracy through Epistemic Ethics
+### AI Governance and the Fiduciary Turn in the Architecture of Knowledge
 
 ---
 
@@ -8,25 +8,27 @@ by Peter Kahl, 2025-11-07
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.-blue.svg)](https://doi.org/10.5281/zenodo.) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
-![A digital illustration of a futuristic networked agora composed of interconnected glowing platforms linked by blue data pathways. At the centre lies a circular hub symbolising algorithmic governance, from which radiant turquoise filaments extend outward. Human figures rendered in warm orange tones stand or sit on the surrounding nodes, interacting with translucent data panels that display charts and graphs. The composition evokes a sense of distributed dialogue and polycentric communication, representing the flow of knowledge and fiduciary trust within algorithmic democracy. The colour palette contrasts deep indigo with cyan and amber, creating a serene, analytical atmosphere.](https://github.com/Peter-Kahl/From-Algorithmic-Clientelism-to-Fiduciary-Governance/blob/main/agora.jpg?raw=true)
+![A digital illustration of a futuristic networked agora composed of interconnected glowing platforms linked by blue data pathways. At the centre lies a circular hub symbolising algorithmic governance, from which radiant turquoise filaments extend outward. Human figures rendered in warm orange tones stand or sit on the surrounding nodes, interacting with translucent data panels that display charts and graphs. The composition evokes a sense of distributed dialogue and polycentric communication, representing the flow of knowledge and fiduciary trust within algorithmic democracy. The colour palette contrasts deep indigo with cyan and amber, creating a serene, analytical atmosphere.](https://github.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI/blob/main/agora.jpg?raw=true)
 
 ## Abstract
 
-This paper reconceptualises the relationship between artificial intelligence and democracy through the lens of fiduciary-epistemic ethics. It argues that AI does not merely threaten democracy through misinformation or automation but through epistemic capture—the reconfiguration of public trust into clientelist dependence mediated by opaque, algorithmic infrastructures. Drawing upon fiduciary theory (Frankel 1983; Gold & Miller 2016; Kahl 2025i), epistemic justice (Fricker 2007; Medina 2013), and recent corporate-law scholarship on hybrid governance (Ofir & Levine-Schnur 2025), the paper situates large AI firms as fiduciaries of knowledge, entrusted with public epistemic goods yet structured to breach those duties through opacity and self-referential accountability.
+This paper redefines democracy for the age of artificial intelligence. It argues that democratic legitimacy no longer rests on procedural participation or information abundance but on fiduciary-epistemic trust—the moral architecture that sustains truthful, reciprocal knowing. Artificial intelligence threatens this foundation not merely through misinformation but through algorithmic clientelism, the conversion of epistemic autonomy into managed dependence within opaque infrastructures.
 
-Synthesising Kahl’s _Epistemic Clientelism Theory_ with Coeckelbergh’s (2025) insights on epistemic agency, the paper introduces a new framework—**Fiduciary Epistemic Governance** (FEG)—that grounds algorithmic accountability in duties of candour, care, and openness. It concludes by proposing institutional reforms, including algorithmic fiduciary duties, epistemic audits, and the establishment of _Public Epistemic Trusts_ as civic counterweights to corporate knowledge enclosures.
+Integrating fiduciary theory (Frankel 1983; Gold & Miller 2016; Kahl 2025i), epistemic justice (Fricker 2007; Medina 2013), and hybrid-governance scholarship (Ofir & Levine-Schnur 2025), the paper situates AI firms as epistemic fiduciaries whose legitimacy depends on duties of candour, care, impartiality, and accessibility. It introduces a unifying model—**Fiduciary Epistemic Governance (FEG)**—which reconceives AI accountability as a constitutional ethic of truth stewardship.
+
+The analysis culminates in the proposal of _Epistemic Fiduciary Entities_, _Public Epistemic Trusts_, and _Epistemic Audits_ as legal and institutional instruments for embedding fiduciary openness within AI governance. In doing so, the paper advances a Fiduciary Constitution of Democracy 2.0: a re-founding of democratic order as a system of mutual trust between human and artificial knowers, where truth is preserved not by control but by fiduciary reciprocity in the architecture of knowing.
 
 ## Keywords
 
-AI governance, fiduciary ethics, epistemic justice, algorithmic clientelism, democratic resilience, epistemic enclosure, fiduciary openness, knowledge regulation, epistemic psychology, cognitive dissonance, informational capitalism
+AI governance, AI law, fiduciary ethics, fiduciary epistemic governance, algorithmic accountability, epistemic justice, algorithmic clientelism, fiduciary openness, democratic trust, redefinition of democracy
 
 ## Download
 
-- [Download PDF](https://raw.githubusercontent.com/Peter-Kahl/From-Algorithmic-Clientelism-to-Fiduciary-Governance/master/Kahl_P_From_Algorithmic_Clientelism_to_Fiduciary_Governance_2025-11-07.pdf) ✅ _latest_
+- [Download PDF](https://raw.githubusercontent.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI/master/Kahl_P_Redefining_Democracy_for_the_Age_of_AI_2025-11-07.pdf) ✅ _latest_
 
 ## Cite this work
 
-Kahl, P. (2025). _From Algorithmic Clientelism to Fiduciary Governance: Rethinking AI and Democracy through Epistemic Ethics_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/From-Algorithmic-Clientelism-to-Fiduciary-Governance DOI: https://doi.org/10.5281/zenodo.
+Kahl, P. (2025). _Redefining democracy for the age of AI: AI governance and the fiduciary turn in the architecture of knowledge_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI DOI: https://doi.org/10.5281/zenodo.
 
 ## Publisher & Licence
 
