@@ -4,7 +4,7 @@
 
 ---
 
-by Peter Kahl, 2025-11-07
+by Peter Kahl, 2025-11-08
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.-blue.svg)](https://doi.org/10.5281/zenodo.) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -34,7 +34,7 @@ Kahl, P. (2025). _Redefining democracy for the age of AI: AI governance and the 
 
 ## Publisher & Licence
 
-v1 published in London by Lex et Ratio Ltd, 2025-11-07.
+v1 published in London by Lex et Ratio Ltd, 2025-11-08.
 
 © 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
