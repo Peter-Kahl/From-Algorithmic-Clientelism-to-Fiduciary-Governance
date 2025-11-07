@@ -16,7 +16,7 @@ This paper redefines democracy for the age of artificial intelligence. It argues
 
 Integrating fiduciary theory (Frankel 1983; Gold & Miller 2016; Kahl 2025i), epistemic justice (Fricker 2007; Medina 2013), and hybrid-governance scholarship (Ofir & Levine-Schnur 2025), the paper situates AI firms as epistemic fiduciaries whose legitimacy depends on duties of candour, care, impartiality, and accessibility. It introduces a unifying model—**Fiduciary Epistemic Governance (FEG)**—which reconceives AI accountability as a constitutional ethic of truth stewardship.
 
-The analysis culminates in the proposal of _Epistemic Fiduciary Entities_, _Public Epistemic Trusts_, and _Epistemic Audits_ as legal and institutional instruments for embedding fiduciary openness within AI governance. In doing so, the paper advances a Fiduciary Constitution of Democracy 2.0: a re-founding of democratic order as a system of mutual trust between human and artificial knowers, where truth is preserved not by control but by fiduciary reciprocity in the architecture of knowing.
+The analysis culminates in the proposal of _Epistemic Fiduciary Entities_, _Public Epistemic Trusts_, and _Epistemic Audits_ as legal and institutional instruments for embedding fiduciary openness within AI governance. In doing so, the paper advances a _Fiduciary Constitution of Democracy 2.0_: a re-founding of democratic order as a system of mutual trust between human and artificial knowers, where truth is preserved not by control but by fiduciary reciprocity in the architecture of knowing.
 
 ## Keywords
 
