@@ -22,7 +22,7 @@ Beyond policy implications, the paper contributes to fiduciary and political the
 
 ## Keywords
 
-AI governance, AI law, fiduciary ethics, fiduciary epistemic governance, algorithmic accountability, epistemic justice, algorithmic clientelism, fiduciary openness, democratic trust, redefinition of democracy
+AI governance, fiduciary theory, political theory, fiduciary ethics, epistemic justice, fiduciary epistemic governance, algorithmic accountability, algorithmic clientelism, fiduciary openness, democratic trust
 
 ## Download
 
