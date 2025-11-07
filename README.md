@@ -18,6 +18,8 @@ Integrating fiduciary theory (Frankel 1983; Gold & Miller 2016; Kahl 2025i), epi
 
 The analysis culminates in the proposal of _Epistemic Fiduciary Entities_, _Public Epistemic Trusts_, and _Epistemic Audits_ as legal and institutional instruments for embedding fiduciary openness within AI governance. In doing so, the paper advances a _Fiduciary Constitution of Democracy 2.0_: a re-founding of democratic order as a system of mutual trust between human and artificial knowers, where truth is preserved not by control but by fiduciary reciprocity in the architecture of knowing.
 
+Beyond policy implications, the paper contributes to fiduciary and political theory alike. It extends fiduciary law from the domain of property and management into that of epistemic governance, redefining fiduciary duty as a constitutional principle of democratic legitimacy. It also advances political theory by reconceiving democracy itself as a fiduciary-epistemic order—an architecture of trust in which authority is justified through candour, care, and reciprocity.
+
 ## Keywords
 
 AI governance, AI law, fiduciary ethics, fiduciary epistemic governance, algorithmic accountability, epistemic justice, algorithmic clientelism, fiduciary openness, democratic trust, redefinition of democracy
