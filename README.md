@@ -6,7 +6,7 @@
 
 by Peter Kahl, 2025-11-08
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.-blue.svg)](https://doi.org/10.5281/zenodo.) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17557934-blue.svg)](https://doi.org/10.5281/zenodo.17557934) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A digital illustration of a futuristic networked agora composed of interconnected glowing platforms linked by blue data pathways. At the centre lies a circular hub symbolising algorithmic governance, from which radiant turquoise filaments extend outward. Human figures rendered in warm orange tones stand or sit on the surrounding nodes, interacting with translucent data panels that display charts and graphs. The composition evokes a sense of distributed dialogue and polycentric communication, representing the flow of knowledge and fiduciary trust within algorithmic democracy. The colour palette contrasts deep indigo with cyan and amber, creating a serene, analytical atmosphere.](https://github.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI/blob/main/agora.jpg?raw=true)
 
@@ -26,11 +26,11 @@ AI governance, AI law, fiduciary theory, fiduciary ethics, fiduciary epistemic g
 
 ## Download
 
-- [Download PDF](https://raw.githubusercontent.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI/master/Kahl_P_Redefining_Democracy_for_the_Age_of_AI_2025-11-07.pdf) ✅ _latest_
+- [Download PDF](https://raw.githubusercontent.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI/master/Kahl_P_Redefining_Democracy_for_the_Age_of_AI_2025-11-08.pdf) ✅ _latest_
 
 ## Cite this work
 
-Kahl, P. (2025). _Redefining democracy for the age of AI: AI governance and the fiduciary turn in the architecture of knowledge_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI DOI: https://doi.org/10.5281/zenodo.
+Kahl, P. (2025). _Redefining democracy for the age of AI: AI governance and the fiduciary turn in the architecture of knowledge_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Redefining-Democracy-for-the-Age-of-AI DOI: https://doi.org/10.5281/zenodo.17557934
 
 ## Publisher & Licence
 
