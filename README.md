@@ -12,7 +12,7 @@ by Peter Kahl, 2025-11-08
 
 ## Abstract
 
-This paper redefines democracy for the age of artificial intelligence. It argues that democratic legitimacy no longer rests on procedural participation or information abundance but on fiduciary-epistemic trust—the moral architecture that sustains truthful, reciprocal knowing. Artificial intelligence threatens this foundation not merely through misinformation but through algorithmic clientelism, the conversion of epistemic autonomy into managed dependence within opaque infrastructures.
+This paper redefines democracy for the age of artificial intelligence. It argues that democratic legitimacy no longer rests on procedural participation or information abundance but on fiduciary-epistemic trust—the moral architecture that sustains truthful, reciprocal knowing. Artificial intelligence threatens this foundation not merely through misinformation but through _algorithmic clientelism_, the conversion of epistemic autonomy into managed dependence within opaque infrastructures.
 
 Integrating fiduciary theory (Frankel 1983; Gold & Miller 2016; Kahl 2025i), epistemic justice (Fricker 2007; Medina 2013), and hybrid-governance scholarship (Ofir & Levine-Schnur 2025), the paper situates AI firms as epistemic fiduciaries whose legitimacy depends on duties of candour, care, impartiality, and accessibility. It introduces a unifying model—**Fiduciary Epistemic Governance (FEG)**—which reconceives AI accountability as a constitutional ethic of truth stewardship.
 
